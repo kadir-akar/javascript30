@@ -1,2 +1,2 @@
 # javascript30
-https://kadirakar.github.io/javascript30/
+https://kadirakarr.github.io/javascript30/
