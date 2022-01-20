@@ -14,3 +14,6 @@ https://javascript30.com/
 
 ### DAY 3
 [Playing with CSS veriables and JS](https://kadirakarr.github.io/javascript30/03%20-%20Playing%20with%20CSS%20Variables%20and%20JS/index.html)
+
+### DAY 4
+[Array Cardio Day 1](https://kadirakarr.github.io/javascript30/04%20-%20Array%20Cardio%20Day%201/index.html)
