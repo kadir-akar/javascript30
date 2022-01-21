@@ -17,3 +17,6 @@ https://javascript30.com/
 
 ### DAY 4
 [Array Cardio Day 1](https://kadirakarr.github.io/javascript30/04%20-%20Array%20Cardio%20Day%201/index.html)
+
+### DAY 5
+[Flex Panel Gallery](https://kadirakarr.github.io/javascript30/05%20-%20Flex%20Panel%20Gallery/index.html)
