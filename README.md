@@ -20,3 +20,6 @@ https://javascript30.com/
 
 ### DAY 5
 [Flex Panel Gallery](https://kadirakarr.github.io/javascript30/05%20-%20Flex%20Panel%20Gallery/index.html)
+
+### DAY 6
+[Type Ahead](https://kadirakarr.github.io/javascript30/06%20-%20Type%20Ahead/index.html)
