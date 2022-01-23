@@ -23,3 +23,6 @@ https://javascript30.com/
 
 ### DAY 6
 [Type Ahead](https://kadirakarr.github.io/javascript30/06%20-%20Type%20Ahead/index.html)
+
+### DAY 7
+[Array Cardio Day 2](https://kadirakarr.github.io/javascript30/07%20-%20Array%20Cardio%20Day/index.html)
