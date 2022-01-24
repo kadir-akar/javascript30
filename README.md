@@ -20,4 +20,4 @@ https://javascript30.com/
 
 [Array Cardio Day 2](https://kadirakarr.github.io/javascript30/07%20-%20Array%20Cardio%20Day/index.html)
 
-[08 - Fun with HTML5 Canvas](https://kadirakarr.github.io/javascript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
+[Fun with HTML5 Canvas](https://kadirakarr.github.io/javascript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
