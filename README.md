@@ -23,3 +23,4 @@ https://javascript30.com/
 [Fun with HTML5 Canvas](https://kadirakarr.github.io/javascript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 
 [Dev Tools Domination](https://kadirakarr.github.io/javascript30/09%20-%20Dev%20Tools%20Domination/index.html)
+
