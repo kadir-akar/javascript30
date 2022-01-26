@@ -24,3 +24,4 @@ https://javascript30.com/
 
 [Dev Tools Domination](https://kadirakarr.github.io/javascript30/09%20-%20Dev%20Tools%20Domination/index.html)
 
+[Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/index.html)
