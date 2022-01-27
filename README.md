@@ -27,5 +27,3 @@ https://javascript30.com/
 [Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/index.html)
 
 [Custom Video Player](https://kadirakarr.github.io/javascript30/11%20-%20Custom%20Video%20Player/index.html)
-
-[Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
