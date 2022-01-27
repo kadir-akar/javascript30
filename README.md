@@ -18,7 +18,7 @@ https://javascript30.com/
 
 [Type Ahead](https://kadirakarr.github.io/javascript30/06%20-%20Type%20Ahead/index.html)
 
-[Array Cardio Day 2](https://kadirakarr.github.io/javascript30/07%20-%20Array%20Cardio%20Day/index.html)
+[Array Cardio Day 2](https://kadirakarr.github.io/javascript30/07%20-%20Array%20Cardio%20Day%202/index.html)
 
 [Fun with HTML5 Canvas](https://kadirakarr.github.io/javascript30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 
@@ -27,3 +27,5 @@ https://javascript30.com/
 [Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/index.html)
 
 [Custom Video Player](https://kadirakarr.github.io/javascript30/11%20-%20Custom%20Video%20Player/index.html)
+
+[Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
