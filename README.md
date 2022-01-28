@@ -29,3 +29,5 @@ https://javascript30.com/
 [Custom Video Player](https://kadirakarr.github.io/javascript30/11%20-%20Custom%20Video%20Player/index.html)
 
 [Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
+
+[Key Sequence Detection (KONAMI CODE)](https://kadirakarr.github.io/javascript30/12%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/index.html)
