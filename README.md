@@ -32,3 +32,5 @@ https://javascript30.com/
 [Hold Shift to Check Multiple Checkboxes](https://kadirakarr.github.io/javascript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
 
 [Key Sequence Detection (KONAMI CODE)](https://kadirakarr.github.io/javascript30/12%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/index.html)
+
+[Slide in on Scroll](https://kadirakarr.github.io/javascript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
