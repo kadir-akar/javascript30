@@ -31,3 +31,5 @@ https://javascript30.com/
 [Key Sequence Detection (KONAMI CODE)](https://kadirakarr.github.io/javascript30/12%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/index.html)
 
 [Slide in on Scroll](https://kadirakarr.github.io/javascript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
+
+[JavaScript References VS Copying](https://kadirakarr.github.io/javascript30/14%20-%20JavaScript%20References%20VS%20Copying/index.html)
