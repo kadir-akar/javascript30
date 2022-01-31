@@ -34,4 +34,4 @@ https://javascript30.com/
 
 [JavaScript References VS Copying](https://kadirakarr.github.io/javascript30/14%20-%20JavaScript%20References%20VS%20Copying/index.html)
 
-[15 - LocalStorage](https://kadirakarr.github.io/javascript30/15%20-%20LocalStorage/index.html)
+[LocalStorage](https://kadirakarr.github.io/javascript30/15%20-%20LocalStorage/index.html)
