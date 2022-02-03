@@ -39,3 +39,6 @@ https://javascript30.com/
 [Mouse Move Shadow](https://kadirakarr.github.io/javascript30/16%20-%20Mouse%20Move%20Shadow/index.html)
 
 [Sort Without Articles](https://kadirakarr.github.io/javascript30/17%20-%20Sort%20Without%20Articles/index.html)
+
+[Adding Up Times with Reduce](https://kadirakarr.github.io/javascript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html)
+
