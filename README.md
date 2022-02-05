@@ -42,3 +42,6 @@ https://javascript30.com/
 
 [Adding Up Times with Reduce](https://kadirakarr.github.io/javascript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html)
 
+[Webcam fun](https://kadirakarr.github.io/javascript30/19%20-%20Webcam%20Fun/index.html)
+
+[Speech Detection](https://kadirakarr.github.io/javascript30//20%20-%20Speech%20Detection/index.html)
