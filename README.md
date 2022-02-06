@@ -44,4 +44,6 @@ https://javascript30.com/
 
 [Webcam fun](https://kadirakarr.github.io/javascript30/19%20-%20Webcam%20Fun/index.html)
 
-[Speech Detection](https://kadirakarr.github.io/javascript30//20%20-%20Speech%20Detection/index.html)
+[Speech Detection](https://kadirakarr.github.io/javascript30/20%20-%20Speech%20Detection/index.html)
+
+[Geolocation](https://kadirakarr.github.io/javascript30/21%20-%20Geolocation/index.html)
