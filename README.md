@@ -47,3 +47,7 @@ https://javascript30.com/
 [Speech Detection](https://kadirakarr.github.io/javascript30/20%20-%20Speech%20Detection/index.html)
 
 [Geolocation](https://kadirakarr.github.io/javascript30/21%20-%20Geolocation/index.html)
+
+[Follow Along Links](https://kadirakarr.github.io/javascript30/22%20-%20Follow%20Along%20Links/index.html)
+
+[Speech Synthesis](https://kadirakarr.github.io/javascript30/23%20-%20Speech%20Synthesis/index.html)
