@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Speech Synthesis</title>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="voiceinator">
+
+        <h1>The Voiceinator 5000</h1>
+
+        <select name="voice" id="voices">
+            <option value="">Select A Voice</option>
+        </select>
+
+        <label for="rate">Rate:</label>
+        <input name="rate" type="range" min="0" max="3" value="1" step="0.1">
+
+        <label for="pitch">Pitch:</label>
+
+        <input name="pitch" type="range" min="0" max="2" step="0.1">
+        <textarea name="text">
+            Mother, mother
+There's too many of you crying
+Brother, brother
+Far too many of you dying
+You know we've got to find a way
+To bring some love in here today
+Father, father
+We don't need to escalate
+War is not the answer
+Only love can conquer hate
+You know we've got to find a way
+To bring some love in here today
+Picket lines and picket signs
+Don't punish me with brutality
+Talk to me,
+So you can see
+What's going on
+What's going on
+What's going on
+What's going on
+Father, father
+Everybody thinks we're wrong
+But who are they to judge us
+Simply 'cause our hair is long
+You know we've got to find a way
+To bring some understanding here today
+Picket lines and picket signs
+Don't punish me with brutality
+Talk to me,
+So you can see
+What's going on
+What's going on
+What's going on
+What's going on.
+    </textarea>
+        <button id="stop">Stop!</button>
+        <button id="speak">Speak</button>
+
+    </div>
+
+    <script src="./script.js"></script>
+
+</body>
