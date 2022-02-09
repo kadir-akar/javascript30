@@ -51,3 +51,5 @@ https://javascript30.com/
 [Follow Along Links](https://kadirakarr.github.io/javascript30/22%20-%20Follow%20Along%20Links/index.html)
 
 [Speech Synthesis](https://kadirakarr.github.io/javascript30/23%20-%20Speech%20Synthesis/index.html)
+
+[Sticky Nav](https://kadirakarr.github.io/javascript30/24%20-%20Sticky%20Nav/index.html)
