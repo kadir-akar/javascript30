@@ -24,7 +24,7 @@ h2 {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 35%;
 }
 .page {
   border: 1px solid black;
@@ -38,4 +38,13 @@ a {
 }
 .page:hover {
   background-color: rgb(253, 223, 223);
+}
+@media only screen and (max-width: 600px) {
+  .page {
+    height: auto;
+    width: auto;
+  }
+  .container {
+    width: 300px;
+  }
 }
