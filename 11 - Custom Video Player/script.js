@@ -32,7 +32,6 @@ function scrub(e){
     const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration;
     video.currentTime = scrubTime;
 }
-//hook up the event listeners
 
 video.addEventListener('click', togglePlay);
 video.addEventListener('play', updateButton);
